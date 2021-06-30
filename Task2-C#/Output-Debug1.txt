@@ -1,0 +1,11 @@
+﻿'Code17Session2.exe' (CoreCLR: DefaultDomain): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.7\System.Private.CoreLib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Code17Session2.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Thao\source\repos\Code17Session2\bin\Debug\net5.0\Code17Session2.dll'. Symbols loaded.
+'Code17Session2.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.7\System.Runtime.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Code17Session2.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.7\System.Console.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Code17Session2.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.7\System.Threading.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Code17Session2.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.7\System.Text.Encoding.Extensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Exception thrown: 'System.FormatException' in System.Private.CoreLib.dll
+An unhandled exception of type 'System.FormatException' occurred in System.Private.CoreLib.dll
+Input string was not in a correct format.
+
+The program '[19416] Code17Session2.exe' has exited with code -1073741510 (0xc000013a).
